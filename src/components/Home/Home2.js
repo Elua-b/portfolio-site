@@ -49,7 +49,7 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js and Next.js</b>
-                 as well as springboot,nest js ,and Laravel
+                 as well as <b className="purple">springboot,nest js ,and Laravel</b>
               </i>
               
             </p>
